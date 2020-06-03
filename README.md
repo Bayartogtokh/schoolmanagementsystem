@@ -1,2 +1,2 @@
 # schoolmanagementsystem
-pop smoke
+school information system 
